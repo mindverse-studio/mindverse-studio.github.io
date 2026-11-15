@@ -1,0 +1,62 @@
+{
+  "paths": [
+    "intuition",
+    "singularity"
+  ],
+  "intuitionVertices": [
+    "Ego",
+    "Memory",
+    "Intellect",
+    "Sense",
+    "Action"
+  ],
+  "intuitionScope": "Logic and mathematics; conceptual graph, not measured cognitive data",
+  "singularityScope": "Convergence of knowledge across disciplines",
+  "singularityArtwork": "Previous artwork restored; geometry matches original, accessible metadata renamed",
+  "galleryAndLibraryLinks": "verified",
+  "questionsAndExercises": {
+    "intuition": "Logic question and MIT source verified",
+    "singularity": "Open knowledge-synthesis exercise and guide expanded and verified"
+  },
+  "contactPrefill": {
+    "intuition": "Intuition (logic & mathematics)",
+    "singularity": "Singularity",
+    "interest": "learning"
+  },
+  "responsive": [
+    {
+      "height": 844,
+      "layoutGap": 0.6015625,
+      "overflow": 0,
+      "path": "intuition",
+      "width": 390
+    },
+    {
+      "height": 844,
+      "layoutGap": -0.3984375,
+      "overflow": 0,
+      "path": "singularity",
+      "width": 390
+    },
+    {
+      "height": 700,
+      "layoutGap": 0.265625,
+      "overflow": 0,
+      "path": "intuition",
+      "width": 320
+    },
+    {
+      "height": 700,
+      "layoutGap": 0.265625,
+      "overflow": 0,
+      "path": "singularity",
+      "width": 320
+    }
+  ],
+  "consoleErrors": [],
+  "screenshots": [
+    "studio-intuition-five-vertices.jpg",
+    "studio-singularity-knowledge.jpg"
+  ],
+  "liveFormSubmissions": false
+}

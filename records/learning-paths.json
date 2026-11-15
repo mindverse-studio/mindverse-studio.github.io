@@ -1,0 +1,170 @@
+[
+  {
+    "slug": "quantum-matter",
+    "title": "Quantum Matter",
+    "short": "Matter",
+    "word": "MATTER",
+    "color": "#a7e2c3",
+    "kind": "Scientific learning",
+    "subtitle": "Small rules. Rich structures.",
+    "description": "Explore states, bonding, and the models that connect microscopic rules to the materials around us.",
+    "topics": [
+      "Quantum states",
+      "Bonding",
+      "Emergence"
+    ],
+    "sequence": [
+      "Represent a simple state",
+      "Connect a model to a property",
+      "Check what a measurement can tell you"
+    ],
+    "prompt": "For a fixed two-outcome quantum measurement, must the probabilities of its possible outcomes add up to one?",
+    "answer": "Yes. The probabilities of all possible outcomes of the specified measurement must sum to one. Changing the state can change those probabilities; the measurement setup defines the outcomes being considered.",
+    "source_name": "IBM Quantum Learning · Quantum information",
+    "source": "https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information/single-systems/quantum-information"
+  },
+  {
+    "slug": "fluid-dynamics",
+    "title": "Fluid Dynamics",
+    "short": "Fluids",
+    "word": "FLOW",
+    "color": "#87d5ee",
+    "kind": "Scientific learning",
+    "subtitle": "See the motion inside the flow.",
+    "description": "Follow streamlines, reason about conservation, and build intuition for how geometry changes a flow.",
+    "topics": [
+      "Conservation",
+      "Streamlines",
+      "Vortices"
+    ],
+    "sequence": [
+      "Describe the flow",
+      "State the assumptions",
+      "Use conservation to make a prediction"
+    ],
+    "prompt": "A steady, incompressible flow passes through a pipe with no leaks. If its cross-sectional area halves, what happens to the mean flow speed?",
+    "answer": "It doubles. Under these assumptions the volume flow rate is constant, so area multiplied by mean speed stays the same. The conclusion depends on the stated steady-flow, incompressibility, and no-leak assumptions.",
+    "source_name": "OpenStax · Fluid dynamics",
+    "source": "https://openstax.org/books/university-physics-volume-1/pages/14-5-fluid-dynamics"
+  },
+  {
+    "slug": "plasma-dynamics",
+    "title": "Plasma Dynamics",
+    "short": "Plasma",
+    "word": "PLASMA",
+    "color": "#d5a9f6",
+    "kind": "Scientific learning",
+    "subtitle": "Charged motion. Collective questions.",
+    "description": "Begin with a moving charge, then explore how fields, particle motion, and collective behavior shape plasma models.",
+    "topics": [
+      "Charged motion",
+      "Fields",
+      "Collective behavior"
+    ],
+    "sequence": [
+      "Trace a particle",
+      "Identify the forces",
+      "Connect the particle picture to a plasma model"
+    ],
+    "prompt": "A charged particle moves exactly parallel to a uniform magnetic field. With no electric field present, is the magnetic force zero?",
+    "answer": "Yes. The magnetic force is proportional to the cross product of velocity and magnetic field. Parallel vectors give a zero cross product. This single-particle example is a starting point, not a complete plasma model.",
+    "source_name": "OpenStax · Charged-particle motion",
+    "source": "https://openstax.org/books/university-physics-volume-2/pages/11-3-motion-of-a-charged-particle-in-a-magnetic-field"
+  },
+  {
+    "slug": "electrodynamics",
+    "title": "Electrodynamics",
+    "short": "Fields",
+    "word": "FIELDS",
+    "color": "#f0c48a",
+    "kind": "Scientific learning",
+    "subtitle": "Think in fields, not just objects.",
+    "description": "Connect charge, current, electric and magnetic fields, and the waves that carry their changes through space.",
+    "topics": [
+      "Charge & current",
+      "Field geometry",
+      "Waves"
+    ],
+    "sequence": [
+      "Sketch a field",
+      "Relate its directions",
+      "Predict how a wave propagates"
+    ],
+    "prompt": "For a plane electromagnetic wave in vacuum, how are the electric field, magnetic field, and propagation direction arranged?",
+    "answer": "The electric and magnetic fields are perpendicular to one another, and both are perpendicular to the direction of propagation. This description applies to the plane-wave setup specified in the question.",
+    "source_name": "OpenStax · Plane electromagnetic waves",
+    "source": "https://openstax.org/books/university-physics-volume-2/pages/16-2-plane-electromagnetic-waves"
+  },
+  {
+    "slug": "space-time",
+    "title": "Space–time",
+    "short": "Space–time",
+    "word": "SPACETIME",
+    "color": "#a5b4ff",
+    "kind": "Scientific learning",
+    "subtitle": "A different frame for an event.",
+    "description": "Work with events, reference frames, and light cones to ask what can influence what—and how a diagram encodes it.",
+    "topics": [
+      "Events",
+      "Reference frames",
+      "Causality"
+    ],
+    "sequence": [
+      "Locate an event",
+      "Choose a reference frame",
+      "Read the light cone"
+    ],
+    "prompt": "In a spacetime diagram, what does the light cone around an event help you distinguish?",
+    "answer": "It distinguishes events that can be causally connected to the chosen event from events outside that causal reach. A light cone describes possible influence; it is not a picture of an object moving faster than light.",
+    "source_name": "Einstein Online · Spacetime",
+    "source": "https://www.einstein-online.info/en/spacetime/"
+  },
+  {
+    "slug": "intuition",
+    "title": "Intuition",
+    "short": "Intuition",
+    "word": "REASONING",
+    "color": "#c9b3f5",
+    "kind": "Logic & mathematics",
+    "subtitle": "Mind, connected.",
+    "description": "Explore intuition through logic, mathematics, and a conceptual model of Mind. Ego traces a place-and-time decision path shaped by knowledge, strategy, observation, and end-to-end orchestration.",
+    "topics": [
+      "Logic & mathematics",
+      "Five roles of Mind",
+      "Temporal context"
+    ],
+    "sequence": [
+      "Observe and frame a question",
+      "Connect knowledge with a strategy",
+      "Test the result and decide the next action"
+    ],
+    "prompt": "If P implies Q, and Q is true, must P also be true?",
+    "answer": "No. The converse needs its own justification. For example, every multiple of 4 is even, but 6 is even without being a multiple of 4. One counterexample is enough to disprove a claim that is supposed to hold in every case.",
+    "source_name": "MIT OpenCourseWare · Mathematics for Computer Science",
+    "source": "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/pages/readings/"
+  },
+  {
+    "slug": "singularity",
+    "title": "Singularity",
+    "short": "Singularity",
+    "word": "CONVERGENCE",
+    "color": "#e8d7fa",
+    "kind": "Knowledge synthesis",
+    "subtitle": "Bring knowledge into one view.",
+    "description": "Connect ideas across physics, mathematics, and computation. Build a coherent view of what you know, how the pieces relate, and which questions open the next direction.",
+    "topics": [
+      "Connections across disciplines",
+      "Conceptual models",
+      "Synthesis & insight"
+    ],
+    "sequence": [
+      "Choose ideas from two learning paths",
+      "Explain their connections and differences",
+      "Build a synthesis and identify a new question"
+    ],
+    "prompt": "Choose two ideas from earlier paths. What connects them, where do they differ, and what new question follows?",
+    "answer": "Build a small concept map. Label a connection, name a difference, and state which assumptions make the connection useful. Treat the map as a synthesis to refine, and check factual claims against the sources for each path.",
+    "source_name": "Studio knowledge-synthesis exercise",
+    "source": ""
+  }
+]

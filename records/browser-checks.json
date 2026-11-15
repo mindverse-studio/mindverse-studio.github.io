@@ -1,0 +1,478 @@
+{
+  "site": "Mindverse Studio",
+  "responsiveChecks": [
+    {
+      "brand": 199.390625,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/index.html",
+      "whiteFields": true,
+      "width": 1280
+    },
+    {
+      "brand": 199.390625,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/learning.html",
+      "whiteFields": true,
+      "width": 1280
+    },
+    {
+      "brand": 199.390625,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/music.html",
+      "whiteFields": true,
+      "width": 1280
+    },
+    {
+      "brand": 199.390625,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/dance.html",
+      "whiteFields": true,
+      "width": 1280
+    },
+    {
+      "brand": 199.390625,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/meditation.html",
+      "whiteFields": true,
+      "width": 1280
+    },
+    {
+      "brand": 199.390625,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/about.html",
+      "whiteFields": true,
+      "width": 1280
+    },
+    {
+      "brand": 199.390625,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/contact.html",
+      "whiteFields": true,
+      "width": 1280
+    },
+    {
+      "brand": 199.390625,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/404.html",
+      "whiteFields": true,
+      "width": 1280
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/index.html",
+      "whiteFields": true,
+      "width": 1024
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/learning.html",
+      "whiteFields": true,
+      "width": 1024
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/music.html",
+      "whiteFields": true,
+      "width": 1024
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/dance.html",
+      "whiteFields": true,
+      "width": 1024
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/meditation.html",
+      "whiteFields": true,
+      "width": 1024
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/about.html",
+      "whiteFields": true,
+      "width": 1024
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/contact.html",
+      "whiteFields": true,
+      "width": 1024
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/404.html",
+      "whiteFields": true,
+      "width": 1024
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/index.html",
+      "whiteFields": true,
+      "width": 768
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/learning.html",
+      "whiteFields": true,
+      "width": 768
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/music.html",
+      "whiteFields": true,
+      "width": 768
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/dance.html",
+      "whiteFields": true,
+      "width": 768
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/meditation.html",
+      "whiteFields": true,
+      "width": 768
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/about.html",
+      "whiteFields": true,
+      "width": 768
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/contact.html",
+      "whiteFields": true,
+      "width": 768
+    },
+    {
+      "brand": 191.71875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/404.html",
+      "whiteFields": true,
+      "width": 768
+    },
+    {
+      "brand": 176.0546875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/index.html",
+      "whiteFields": true,
+      "width": 390
+    },
+    {
+      "brand": 176.0546875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/learning.html",
+      "whiteFields": true,
+      "width": 390
+    },
+    {
+      "brand": 176.0546875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/music.html",
+      "whiteFields": true,
+      "width": 390
+    },
+    {
+      "brand": 176.0546875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/dance.html",
+      "whiteFields": true,
+      "width": 390
+    },
+    {
+      "brand": 176.0546875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/meditation.html",
+      "whiteFields": true,
+      "width": 390
+    },
+    {
+      "brand": 176.0546875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/about.html",
+      "whiteFields": true,
+      "width": 390
+    },
+    {
+      "brand": 176.0546875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/contact.html",
+      "whiteFields": true,
+      "width": 390
+    },
+    {
+      "brand": 176.0546875,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/404.html",
+      "whiteFields": true,
+      "width": 390
+    },
+    {
+      "brand": 159.7109375,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/index.html",
+      "whiteFields": true,
+      "width": 320
+    },
+    {
+      "brand": 159.7109375,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/learning.html",
+      "whiteFields": true,
+      "width": 320
+    },
+    {
+      "brand": 159.7109375,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/music.html",
+      "whiteFields": true,
+      "width": 320
+    },
+    {
+      "brand": 159.7109375,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/dance.html",
+      "whiteFields": true,
+      "width": 320
+    },
+    {
+      "brand": 159.7109375,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/meditation.html",
+      "whiteFields": true,
+      "width": 320
+    },
+    {
+      "brand": 159.7109375,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/about.html",
+      "whiteFields": true,
+      "width": 320
+    },
+    {
+      "brand": 159.7109375,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/contact.html",
+      "whiteFields": true,
+      "width": 320
+    },
+    {
+      "brand": 159.7109375,
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": 0,
+      "page": "/404.html",
+      "whiteFields": true,
+      "width": 320
+    }
+  ],
+  "mobileGalleryCorrection": [
+    {
+      "labelsContained": true,
+      "overflow": 0,
+      "page": "/learning.html",
+      "width": 768
+    },
+    {
+      "labelsContained": true,
+      "overflow": 0,
+      "page": "/meditation.html",
+      "width": 768
+    },
+    {
+      "labelsContained": true,
+      "overflow": 0,
+      "page": "/learning.html",
+      "width": 390
+    },
+    {
+      "labelsContained": true,
+      "overflow": 0,
+      "page": "/meditation.html",
+      "width": 390
+    },
+    {
+      "labelsContained": true,
+      "overflow": 0,
+      "page": "/learning.html",
+      "width": 320
+    },
+    {
+      "labelsContained": true,
+      "overflow": 0,
+      "page": "/meditation.html",
+      "width": 320
+    }
+  ],
+  "galleryKeyboardSequences": [
+    {
+      "page": "learning.html",
+      "sequence": [
+        "quantum-matter",
+        "fluid-dynamics",
+        "plasma-dynamics",
+        "electrodynamics",
+        "space-time",
+        "third-eye",
+        "sahasrara"
+      ],
+      "input": "keyboard"
+    },
+    {
+      "page": "meditation.html",
+      "sequence": [
+        "muladhar",
+        "swadhisthana",
+        "manipura",
+        "anahata",
+        "bishuddhi",
+        "agna",
+        "sahasrara"
+      ],
+      "input": "keyboard"
+    }
+  ],
+  "shortLearning": {
+    "enhanced": false,
+    "height": 568,
+    "overflow": 0,
+    "page": "/learning.html",
+    "visibleChapters": 7
+  },
+  "shortMeditation": {
+    "height": 568,
+    "enhanced": false,
+    "visibleChapters": 7,
+    "overflow": 0
+  },
+  "music": {
+    "playback": "Play/Stop state verified",
+    "refinement": "More motion changed pulse and density",
+    "variation": "verified",
+    "loopTabs": "Refine panel verified",
+    "engineTests": 8
+  },
+  "dance": {
+    "materialSwitch": "Plasma verified",
+    "playbackAndMusic": "verified",
+    "refinement": "More lift verified",
+    "video": {
+      "format": "MP4",
+      "duration": 7.997438,
+      "width": 684,
+      "height": 426,
+      "readyState": 4,
+      "audioIncluded": true
+    },
+    "engineTests": 8
+  },
+  "forms": {
+    "categoryTopicPrefill": "Learning / Quantum Matter verified",
+    "nameAndNewsletterEditable": true,
+    "whiteFields": true,
+    "liveSubmissionsSent": false,
+    "textEntryEvidence": "Contact name and newsletter filled successfully; newsletter accessibility snapshot showed entered text (redacted by browser). Cleared without submitting."
+  },
+  "consoleErrors": [],
+  "screenshots": [
+    "mindverse-studio-home.png",
+    "mindverse-studio-home-mobile.png",
+    "mindverse-studio-categories.png"
+  ]
+}

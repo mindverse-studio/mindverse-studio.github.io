@@ -1,0 +1,72 @@
+{
+  "geometry": "Inverted pentagon; Mind at centre; Ego at bottom",
+  "roles": "Five roles.\nMind at the centre.\nEgo\nA place-and-time pointer that traces the decision history shaped by Memory, Intellect, Sense, and Action.\nMemory\nKnowledge available to the Mind.\nIntellect\nStrategy for reasoning, choosing methods, and organizing the next step.\nSense\nObservation of the environment and internal operations.\nAction\nEnd-to-end orchestration that carries intent through execution.\n\nA conceptual framework: Ego acts as a pen nib while temporal flow carries the decision history.",
+  "animation": {
+    "galleryStoppedOffscreen": true,
+    "libraryHistoryMoved": true
+  },
+  "pause": "Gallery pause froze the trace; library control resumed both instances",
+  "egoNib": "Touches the current endpoint of the moving decision-history trace",
+  "responsive": [
+    {
+      "active": "intuition",
+      "height": 800,
+      "layoutGap": 87.6875,
+      "overflow": 0,
+      "svgHeight": 496.6875,
+      "svgWidth": 597.1953125,
+      "width": 1280
+    },
+    {
+      "active": "intuition",
+      "height": 768,
+      "layoutGap": 93.6171875,
+      "overflow": 0,
+      "svgHeight": 477.6171875,
+      "svgWidth": 425.8828125,
+      "width": 1024
+    },
+    {
+      "active": "intuition",
+      "height": 844,
+      "layoutGap": 143.2109375,
+      "overflow": 0,
+      "svgHeight": 567.2109375,
+      "svgWidth": 291.1328125,
+      "width": 768
+    },
+    {
+      "active": "intuition",
+      "height": 844,
+      "layoutGap": 0.6015625,
+      "overflow": 0,
+      "svgHeight": 350,
+      "svgWidth": 346,
+      "width": 390
+    },
+    {
+      "active": "intuition",
+      "height": 700,
+      "layoutGap": 0.265625,
+      "overflow": 0,
+      "svgHeight": 268.6371765136719,
+      "svgWidth": 272.67388916015625,
+      "width": 320
+    },
+    {
+      "active": "intuition",
+      "height": 640,
+      "layoutGap": 0.6015625,
+      "overflow": 0,
+      "svgHeight": 170.1953125,
+      "svgWidth": 346,
+      "width": 390
+    }
+  ],
+  "reducedMotion": "Verified by runtime lifecycle checks",
+  "consoleErrors": [],
+  "screenshots": [
+    "intuition-inverted-pentagon.jpg",
+    "intuition-inverted-pentagon-mobile.jpg"
+  ]
+}

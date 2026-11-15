@@ -1,0 +1,9 @@
+{
+  "base_url": "",
+  "custom_domain": "",
+  "archive": "release/mindverse-studio-website.zip",
+  "contact_endpoint": "https://script.google.com/macros/s/AKfycbw3BBoM39pujwyMHbwvvKuT5XRgDsv0Esb4KQEkam5ksfpIApYNtQlR5DI-YF5JF9hF/exec",
+  "newsletter_endpoint": "https://script.google.com/macros/s/AKfycbyMOuZ-fyRw1w7wyqUb4kydViXYUa2k1f41DxeShzBUr5xaNU4V5J8yPOgeX-8z8I9dmA/exec",
+  "site_name": "Mindverse Studio",
+  "status": "local Studio/Integrated preview; deployment address not selected"
+}

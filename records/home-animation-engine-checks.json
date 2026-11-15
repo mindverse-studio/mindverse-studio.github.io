@@ -1,0 +1,17 @@
+{
+  "javascriptParsed": [
+    "contact-service.js",
+    "home-visuals.js",
+    "journey.js",
+    "motion-engine.js",
+    "motion-studio.js",
+    "music-engine.js",
+    "music-lab.js",
+    "studio.js",
+    "subscription-service.js"
+  ],
+  "homeAnimationLifecycle": 6,
+  "motionEngine": 8,
+  "musicEngine": 8,
+  "status": "passed"
+}

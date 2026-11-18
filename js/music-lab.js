@@ -79,7 +79,7 @@
     download.addEventListener('click',()=>{
       pcm=pcm||engine.renderPCM(sketch);
       const url=URL.createObjectURL(new Blob([engine.encodeWav(pcm,22050,Number(volume.value)/100)],{type:'audio/wav'}));
-      const a=document.createElement('a');a.href=url;a.download='mindverse-music-sketch-'+String(revision).padStart(2,'0')+'.wav';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);
+      const a=document.createElement('a');a.href=url;a.download='think-music-sketch-'+String(revision).padStart(2,'0')+'.wav';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);
       status.textContent='Your original sketch is ready to save as a WAV file.';
     });
     document.addEventListener('visibilitychange',()=>{if(document.hidden&&playing){stop();status.textContent='Playback paused while this page was in the background.';}});

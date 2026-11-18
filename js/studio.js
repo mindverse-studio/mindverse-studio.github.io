@@ -1,6 +1,10 @@
 (() => {
   'use strict';
   const menu=document.querySelector('.mobile-menu');
+  const experiences=document.querySelector('.experience-menu');
+  experiences?.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{experiences.open=false;}));
+  document.addEventListener('click',e=>{if(experiences?.open&&!experiences.contains(e.target))experiences.open=false;});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&experiences?.open){experiences.open=false;experiences.querySelector('summary').focus();}});
   menu?.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{menu.open=false;}));
   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu?.open){menu.open=false;menu.querySelector('summary').focus();}});
   document.addEventListener('click',e=>{if(menu?.open&&!menu.contains(e.target))menu.open=false;});
@@ -12,9 +16,9 @@
   if(contact){
     const ready=window.MindverseContactService?.configured===true,fields=contact.querySelector('fieldset'),button=contact.querySelector('button[type="submit"]'),status=document.getElementById('contact-status'),copy=document.getElementById('copy-inquiry');
     const markup=button.innerHTML;let pending=false,preserved='';fields.disabled=!ready;
-    const params=new URLSearchParams(location.search),interest=contact.elements.namedItem('interest'),requested=params.get('interest');
+    const params=new URLSearchParams(location.search),interest=contact.elements.namedItem('interest'),requested=params.get('interest')==='intuition'?'mindfulness':params.get('interest');
     if([...interest.options].some(o=>o.value===requested))interest.value=requested;
-    const topics={'quantum-matter':'Quantum Matter','fluid-dynamics':'Fluid Dynamics','plasma-dynamics':'Plasma Dynamics','electrodynamics':'Electrodynamics','space-time':'Space–time','intuition':'Intuition (logic & mathematics)','singularity':'Singularity','sahasrara':'Sahasrara','creation':'Imagined music & creation','listening':'Personal listening','instrument':'Creative instruments','collaboration':'Co-creation','character':'Dancing characters','fluid':'Dancing fluid','plasma':'Dancing plasma','research':'BCI research','muladhar':'Root Chakra / Muladhar','swadhisthana':'Sacral Chakra / Swadhisthana','manipura':'Solar Plexus / Manipura','anahata':'Heart Chakra / Anahata','bishuddhi':'Throat Chakra / Bishuddhi','agna':'Third Eye / Agna'};
+    const topics={'natural-sounds':'Natural Sounds','bedtime-stories':'Bedtime Stories','ambient-worlds':'Ambient Worlds','guided-rest':'Guided Rest','breath-rhythm':'Breath & Rhythm','reflection-space':'Reflection Space','mindfulness':'Mindfulness · Observing decisions','intuition':'Mindfulness · Observing decisions','sahasrara':'Sahasrara','creation':'Imagined music & creation','listening':'Personal listening','instrument':'Creative instruments','collaboration':'Co-creation','character':'Dancing characters','fluid':'Dancing fluid','plasma':'Dancing plasma','research':'BCI research','muladhar':'Root Chakra / Muladhar','swadhisthana':'Sacral Chakra / Swadhisthana','manipura':'Solar Plexus / Manipura','anahata':'Heart Chakra / Anahata','bishuddhi':'Throat Chakra / Bishuddhi','agna':'Third Eye / Agna'};
     const topic=params.get('topic');if(topic)contact.elements.namedItem('topic').value=(topics[topic]||topic.replaceAll('-',' ')).slice(0,160);
     if(!ready)status.textContent='The inquiry form is temporarily unavailable.';
     contact.addEventListener('input',()=>{if(!pending&&ready){status.textContent='';copy.hidden=true;delete status.dataset.state;}});
